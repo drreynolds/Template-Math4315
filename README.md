@@ -1,5 +1,4 @@
-# Template-Math4315
+# Math 4315 -- Homework #0
 
 Jane Doe  
-Math 4315 @ SMU  
 Spring 2021  
