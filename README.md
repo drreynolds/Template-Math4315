@@ -1,2 +1,5 @@
 # Template-Math4315
-Assignment template repository for SMU Math 4315
+
+Jane Doe
+Math 4315 @ SMU
+Spring 2021
